@@ -1,0 +1,26 @@
+{
+  "repo": "canva-pro-studio",
+  "product": "Canva Pro Studio",
+  "kind": "creative",
+  "install_type": "mylunora",
+  "install_url": "https://mylunora.art",
+  "batch": "200-repo-zaliv-32",
+  "format": "license-md-mylunora-v3-game-copy",
+  "category": "photo-editing",
+  "topics": [
+    "canva-pro-studio",
+    "canva-desktop",
+    "canva-windows",
+    "photo-editing",
+    "raw-processing",
+    "retouching-tools",
+    "color-correction",
+    "image-export",
+    "desktop-photo",
+    "windows-photo-editor",
+    "layer-editing",
+    "catalog-workflow",
+    "print-profiles"
+  ],
+  "site": "mylunora.art"
+}
